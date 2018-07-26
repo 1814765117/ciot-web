@@ -7,6 +7,7 @@
     font-size:14px;
     color:#999999;
     margin: 0px;
+    font-family: "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 }
 .end
 {
@@ -32,6 +33,7 @@
     color: #333333;
     text-indent: 2em;
     margin: 10px 0 10px;
+    font-family: "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 }
 .right
 {
@@ -64,6 +66,7 @@
     margin: 0px;
     padding-top: 10px;
     color: #666666;
+    font-family: "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 }
 .hot
 {
@@ -77,13 +80,15 @@
     margin: 0px;
     padding-top: 0px;
     color: #666666;
+    font-family: "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 }
 .down
 {
     font-size: 14px; 
     line-height: 16px;
     margin: 0px;
-    color:#b6b6b6
+    color:#b6b6b6;
+    font-family: "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 }
 .side-img
 {
@@ -95,6 +100,7 @@
 {
     font-size: 20px;
     margin-bottom: 15px;
+    font-family: "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 }
 .advise
 {
@@ -115,75 +121,9 @@ ul li
     margin-top: 25px;
     margin-bottom: 35px;
 }
-/*.padding-none-style
+#hr hr
 {
-    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 40px;
 }
 
-
-#main .padding-none-style img
-{
-    width: 100%;
-}
-#main .right-text p
-{
-    display: inline-block; 
-	white-space: nowrap;
-	width: 125px; 
-	overflow: hidden; 
-	text-overflow:ellipsis;
-    font-size: 14px;
-    color: #666666;
-    margin-bottom: 3px;
-}
-.full-img
-{
-    width: 100%;
-}
-
-.right
-{
-    background-color: #fafafa;
-    margin: 0px;
-}
-.padding-style
-{
-    padding-left: 20px;
-}
-#main .row
-{
-    margin-top: 20px;
-    margin-bottom: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-ul
-{
- list-style-image:url("item1.png");
- padding-left: 0px;
- margin-left: 30px;
-}
-ul li
-{
-    display: inline-block; 
-	white-space: nowrap;
-	width: 130px; 
-	overflow: hidden; 
-	text-overflow:ellipsis;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-.main-font-style
-{
-    font-size:14px;
-    color: #333333;
-}
-.bold-style
-{
-    font-size: 21px;
-}
-
-#main .right-img img
-{
-    width: 100%;
-}*/
