@@ -1,3 +1,38 @@
+.footup {
+   border-right:1.5px solid white;
+   height: 18px;
+   display: flex;
+   justify-content:center;
+   align-items:Center;
+   margin-top: 0.5%;
+   margin-bottom: 0.5%;
+}
+.footup3 {
+   height: 18px;
+   display: flex;
+   justify-content:center;
+   align-items:Center;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%; 
+}
+
+.footup1{
+    background-color: white;
+}
+.footup2{
+    margin-top: 3%;
+    background-color: #2a83d3;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+.footup2 a{
+    text-decoration:none;
+    color: white;
+    font-size: 16px;
+    width: 100%;
+    }
 #footers {
     background-color: #ecf0f1;
 }
