@@ -1,15 +1,15 @@
-.internetall{
+.pageall{
 	background-color: #2a83d3;
 	height: 80px;
 }
-.internetall .container .row .col-md{
+.pageall .container .row .col-md{
 	 padding-left: 0
 }
-.internetall a{
+.pageall a{
 	color: inherit;
 	text-decoration:none
 }
-.internetall a p{
+.pageall a p{
 	color: #ffffff;
 	font-family: "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 	font-size: 18px;
@@ -59,7 +59,7 @@
 .bigtabcontent {
     display: none;
     padding: 6px 12px;
-    border: 1px solid #ccc;
+     
     border-top: none;
 }
 
@@ -183,7 +183,7 @@
 .news .smalltab .smalltabcontent {
     display: none;
     padding: 6px 12px;
-    border: 1px solid #ccc;
+     
     border-top: none;
 }
 .news .carousel-inner img {

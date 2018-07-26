@@ -15,8 +15,39 @@
     
 </head>
 <body>
+<section id="head">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5 offset-md-1">
+                <img src="assets/static/journal/logo.jpg">
+            </div>
+            <div class="col-md-4">
+                <div class="searchbox">
+                    <div class="mod_select">
+                        <div class="select_box">
+                            <span class="select_txt">全部搜索</span>
+                            <span class="select-icon"></span>
+                            <ul class="option">
+                                <li>部分搜索</li>
+                                <li>全部搜索</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <form action="">
+                        <input type="hidden" name="" value="全部搜索" id="select_value">
+                        <input type="text" name="" id="searchPlaceholder" class="import" placeholder="请输入查找内容">
+                        <input type="submit" value="搜   索" class="btn-search">
+                    </form>
+                </div>
+                </div>
+             <div class="col-md-1">
+                 <div class="login"> <a href="#">登陆</a>|<a href="#">注册</a></div>
+             </div>
+        </div>
+    </div>
+</section>
 
-<div class="internetall">
+<div class="pageall">
     <div class="container">
         <div class="row">
             <div class="col-md offset-md-1">
@@ -397,7 +428,23 @@
 
 
 
-
+<section class="footups">
+    <div class="footup1">
+        <div class="footup2">
+        <div class="container">
+        <div class="row">
+            <div class="col-md footup offset-md-2"><a href="#">关于我们</a></div>
+            <div class="col-md footup"><a href="#">诚聘英才</a></div>
+            <div class="col-md footup"><a href="#">商务合作</a></div>
+            <div class="col-md footup"><a href="#">联系我们</a></div>
+            <div class="col-md footup"><a href="#">投稿</a></div>
+            <div class="col-md footup3"><a href="#">网站地图</a></div>
+            <div class="col-md-2"></div>    
+        </div>
+    </div>
+        </div>
+    </div>
+</section>
 
 <section id="footers">
     <div class="container">
@@ -447,6 +494,7 @@
 <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdn.bootcss.com/popper.js/1.12.5/umd/popper.min.js"></script>
 <script src="https://cdn.bootcss.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/js/head.js"></script>
 <script>
     function openTabBig(evt, bigTabName) {
         var i, tabcontent, tablinks;
