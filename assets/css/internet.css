@@ -18,7 +18,9 @@
 .pageall .linelast{
 	left: -10px;
 }
-
+.pageall .currentpage{
+	
+}
 .downlink{
 	margin-top: 30px;
 }
